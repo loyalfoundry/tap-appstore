@@ -51,7 +51,7 @@ API_REQUEST_FIELDS = {
         'reportType': 'SALES',
         'frequency': 'DAILY',
         'reportSubType': 'SUMMARY',
-        'version': '1_1'
+        'version': '1_0'
     }
 }
 
