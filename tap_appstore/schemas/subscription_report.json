@@ -191,6 +191,24 @@
                 "null",
                 "integer"
             ]
-        }
+        },
+        "free_trial_offer_code_subscriptions": {
+           "type": [
+                "null",
+                "integer"
+            ]
+        },
+        "pay_up_front_offer_code_subscriptions": {
+           "type": [
+                "null",
+                "integer"
+            ]
+        },
+        "pay_as_you_go_offer_code_subscriptions": {
+            "type": [
+                 "null",
+                 "integer"
+	    ]
+         }
     }
 }
